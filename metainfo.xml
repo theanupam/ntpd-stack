@@ -30,7 +30,7 @@
             <!-- what yum packages need to be installed -->
             <osSpecifics>
               <osSpecific>
-                <osFamily>redhat6</osFamily>
+                <osFamily>redhat7</osFamily>
                 <packages>
                    <package><name>ntp</name></package>                                                  
                 </packages>
